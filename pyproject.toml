@@ -1,0 +1,4 @@
+[project]
+name = "ai-citation-attributor"
+version = "0.1.0"
+description = "Links individual generated statements back to verbatim source evidence spans in reference documents."
